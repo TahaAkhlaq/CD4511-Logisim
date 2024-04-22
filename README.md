@@ -1,4 +1,6 @@
 # CD4511-Logisim
+## Created in collaboration with [Talha Akhlaq](https://github.com/TalhaAkhlaq)
+
 This repository contains a Logisim-Evolution library for the CMOS CD4511 BCD-to-7-Segment Decoder/Driver IC; for technical specifications, refer to the [CD4511B Datasheet](https://www.ti.com/lit/ds/symlink/cd4511b-mil.pdf?ts=1713682269925&ref_url=https%253A%252F%252Fwww.google.com%252F).
 
 ## Usage
